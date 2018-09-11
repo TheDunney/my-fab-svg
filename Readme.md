@@ -5,7 +5,8 @@ My Fab SVG animatable via a JS API .
 var theFabSVG = require('my-fab-svg')
 var firstFabSVGonthepage = theFabSVG('mySVGp1')
 
-// create a placeholder HTML element on the page with corresponding #id ... <div id="mySVGp1"> <div>
+// create a placeholder HTML element on the page with corresponding #id
+// for example ... <div id="mySVGp1"> <div>
 // ... then to animate the rectangle in that instance of the SVG do ..
 firstFabSVGonthepage.rect1animate();
 

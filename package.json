@@ -1,13 +1,17 @@
 {
   "name": "my-fab-svg",
   "version": "0.1.0",
-  "description": "",
+  "description": "Animatable SVG with JS control API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jane Dunne",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/TheDunney/my-fab-svg"
+  },
   "devDependencies": {
   },
   "dependencies": {
