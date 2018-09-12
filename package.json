@@ -1,6 +1,6 @@
 {
   "name": "my-fab-svg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Animatable SVG with JS control API",
   "main": "index.js",
   "scripts": {
